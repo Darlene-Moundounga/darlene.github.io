@@ -101,8 +101,8 @@ body {
 .gallery .nav {
 	justify-content: center;
 }
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-	color: #fff;
+.nav-pills .nav-link.active, .nav-link.active-tag,.nav-pills .show > .nav-link {
+	color: #fff !important;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
